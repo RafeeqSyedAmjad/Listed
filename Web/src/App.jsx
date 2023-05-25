@@ -1,10 +1,9 @@
 import { AppRoutes } from './routes/AppRoutes';
-import './App.css'
 
 function App() {
 
   return (
-    <div className='font-roboto'>
+    <div className='bg-[#F5F5F5]'>
       <AppRoutes />
     </div>
   )
